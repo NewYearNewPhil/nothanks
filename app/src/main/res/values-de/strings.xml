@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">No, Thanks!</string>
+    <string name="accessibility_service_description">Dieser Dienst erkennt wenn Ansichten geöffnet werden, die in den Einstellungen von No Thanks! konfiguriert sind, um diese zu blockieren.</string>
+    <string name="back_arrow_description">Zurück zu den Einstellungen</string>
+    <string name="info_button_description">Informationen über die App</string>
+    <string name="accessibility_service_icon_description">Einstellungen zur Bedienungshilfe</string>
+    <string name="accessibility_service_title">Bedienhungshilfe-Dienst</string>
+    <string name="enabled">Eingeschaltet</string>
+    <string name="disabled">Ausgeschaltet</string>
+    <string name="enable_blocking_icon_description">Block</string>
+    <string name="enable_blocking_title">Blockieren aktivieren</string>
+    <string name="blocked_views_title">Blockierte Ansichten</string>
+    <string name="instagram_icon_description">Instagram Logo</string>
+    <string name="youtube_icon_description">YouTube Logo</string>
+    <string name="about_paragraph_1">Instagram und YouTube bieten unendlich viele kurze Videoclips an. Mit dieser App kannst du \"Nein, Danke!\" zu diesen Features sagen. Einfach die Bedienungshilfe aktivieren, und die App wird dich daran hindern, diese Features zu verwenden.</string>
+    <string name="about_paragraph_2">Wenn du manchmal dennoch Reels oder Shorts anschauen möchtest, kannst du das Blockieren in der App deaktivieren. Falls du möchtest kannst du auch die Schnelleinstellungs-Kachel hinzufügen, damit es noch schneller geht.</string>
+    <string name="developed_by">Entwickelt von: NewYearNewPhil</string>
+    <string name="source_code">Quellcode</string>
+    <string name="about_title">Über</string>
+    <string name="license_title">Lizenz</string>
+    <string name="license_text">Diese App ist unter der MIT-Lizenz veröffentlicht.</string>
+    <string name="third_party_licenses_title">Drittanbieterlizenzen</string>
+    <string name="instagram_reels_title">Instagram Reels</string>
+    <string name="youtube_shorts_title">YouTube Shorts</string>
+</resources>

@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">No, Thanks!</string>
+    <string name="accessibility_service_description">This service detects when views are opened that are configured in the settings of "No Thanks!", so they can be blocked.</string>
+    <string name="back_arrow_description">Back To Settings</string>
+    <string name="info_button_description">Information about the app</string>
+    <string name="accessibility_service_icon_description">Accessibility Settings</string>
+    <string name="accessibility_service_title">Accessibility Service</string>
+    <string name="enabled">Enabled</string>
+    <string name="disabled">Disabled</string>
+    <string name="enable_blocking_icon_description">Block</string>
+    <string name="enable_blocking_title">Enable blocking</string>
+    <string name="blocked_views_title">Blocked Views</string>
+    <string name="instagram_icon_description">Instagram Logo</string>
+    <string name="youtube_icon_description">YouTube Logo</string>
+    <string name="about_paragraph_1">Instagram and YouTube offer short, endless video clips. Using this app, you can say \"No, Thanks!\" to these features. Enable the included AccessibilityService, and whenever you attempt to use those features, you will be prevented from doing so.</string>
+    <string name="about_paragraph_2">But what if you sometimes DO want to watch reels or shorts? Worry not, you can always disable blocking in the app. Also, a \"Quick Setting Tile\" is available to make this more convenient.</string>
+    <string name="developed_by">Developed by: NewYearNewPhil</string>
+    <string name="source_code">Source Code</string>
+    <string name="about_title">About</string>
+    <string name="license_title">License</string>
+    <string name="license_text">This app is released under the MIT License.</string>
+    <string name="third_party_licenses_title">3rd Party Licenses</string>
+    <string name="instagram_reels_title">Instagram Reels</string>
+    <string name="youtube_shorts_title">YouTube Shorts</string>
+</resources>
