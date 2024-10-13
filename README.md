@@ -4,6 +4,8 @@ But what if you sometimes DO want to watch reels or shorts? Worry not, you can a
 
 ⚠️ App must be enabled as "Accessibility Service" in Android Settings to work!
 
+I also wrote an accompanying [blog post](https://nynp.dev/logs/no-thanks-app/)!
+
 # Contributing etc.
 Primarily made this for myself, kind of hacked it together in a few hours. There's an app in the Play Store that already [does this](https://play.google.com/store/apps/details?id=com.newswarajya.noswipe.reelshortblocker), but I dont like it. This is a primitive FOSS version, basically.
 You can grab the .apk from the releases. If there's any interest, I'm open to publishing the app on F-Droid, and I'm of course also open to feature requests, pull requests, all that.
