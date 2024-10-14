@@ -3,6 +3,7 @@ Instagram and YouTube offer short, endless video clips. Using this app, you can 
 But what if you sometimes DO want to watch reels or shorts? Worry not, you can always disable blocking in the app. Also, a "Quick Setting Tile" is available to make this more convenient.
 
 ⚠️ App must be enabled as "Accessibility Service" in Android Settings to work!
+⚠️ Sometimes this setting might be "restricted" for apps not installed trough an App Store, in that case you can "unrestrict" it by opening App Info > Three Dots > "Enable Restricted Settings".
 
 I also wrote an accompanying [blog post](https://nynp.dev/logs/no-thanks-app/)!
 
